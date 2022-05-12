@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "anbu",
+      "last_name": "arasan",
+      "email": "anbu01@fmly.com"
+    },
+    {
+      "id": 2,
+      "first_name": "subetha",
+      "last_name": "bavi",
+      "email": "sube@fmly.com"
+    },
+    {
+        "id": 3,
+        "first_name": "muees",
+        "last_name": "waran",
+        "email": "muneeswaran@fmly.com"
+      },
+    {
+        "id": 4,
+        "first_name": "mari",
+        "last_name": "ammal",
+        "email": "mariyammal@fmly.com"
+
+
+      }
+    ]
+  }
